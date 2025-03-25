@@ -18,7 +18,7 @@ I’ll ask for your ideas, give you space to lead, and always welcome feedback.
 
 ## 🗺️ What Guides Me
 These values deeply resonate with how I show up as a manager:
-- **Integrity**: I believe in doing the right thing, following through, and being candid, even when it’s hard. I’ll give you straight answers and own my commitments.
+- **Integrity**: I believe in doing the right thing, following through, and being candid, even when it’s hard. I’ll give you straight answers and own my commitments. I will ask the same of you.
 - **Curiosity**: I ask a lot of questions. Not because I doubt you but because I love learning, pattern-matching, and connecting ideas.
 - **Collaboration**: I believe strong teams are built on trust, empathy, and shared ownership. I’ll advocate for you, support you, and celebrate your wins loudly.
 You don’t need to memorize these - just know that they shape the way I work, give feedback, and lead.
