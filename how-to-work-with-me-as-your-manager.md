@@ -16,20 +16,27 @@ I’m your manager, but more than that, I’m your advocate. I’m here to:
 
 I’ll ask for your ideas, give you space to lead, and always welcome feedback.
 
+## 🗺️ What Guides Me
+These values deeply resonate with how I show up as a manager:
+- **Integrity**: I believe in doing the right thing, following through, and being candid, even when it’s hard. I’ll give you straight answers and own my commitments.
+- **Curiosity**: I ask a lot of questions. Not because I doubt you but because I love learning, pattern-matching, and connecting ideas.
+- **Collaboration**: I believe strong teams are built on trust, empathy, and shared ownership. I’ll advocate for you, support you, and celebrate your wins loudly.
+You don’t need to memorize these - just know that they shape the way I work, give feedback, and lead.
+
 ## ✅ What You Can Expect From Me
 
 - **Strategic context**: I’ll always try to connect the dots between our work and Midnight’s bigger goals.
 - **Regular 1:1s**: This is your time. Bring challenges, wins, ideas, feedback—anything. I’ll do the same.
+- **Transparency**: I share context early and often. If something’s changing or unclear, I’ll keep you in the loop. And if I don’t have an answer yet, I’ll tell you that too.
+- **Responsiveness**: I tend to reply quickly on Slack. I don’t expect the same from you, especially outside your working hours.
 - **Feedback**: I’ll give it regularly, thoughtfully, and privately when constructive. And I’ll always ask for yours too.
-- **Transparency**: I’ll let you know what I know (and if I can’t, I’ll say that too).
-- **Responsiveness**: I tend to reply quickly on Slack. I don’t expect the same from you—especially outside your working hours.
 
 ## 🙌 What I Expect From You
 
 - **Own your work**: You have context - I don’t. I’ll support, not micromanage.
-- **Think like a builder**: Try things. Document learnings. Share progress often.
-- **Speak up early**: If you’re stuck or unsure—don’t wait. I’d always rather know.
-- **Bring your ideas**: Our best work comes from creative people who challenge the status quo.
+- **Think like a builder**: Try things. Share your progress often. Our best work comes from creative people who explore, experiment, and challenge the status quo.
+- **Speak up early**: Please don't wait to communicate if you’re stuck or unsure.
+- **Deliver with excellence**: I hold a high bar for quality, clarity, and follow-through, and I aim to model the same. I trust you to deliver great work, and I’ll support you every step of the way.
 
 ## 💬 Communication Style
 
@@ -62,6 +69,10 @@ I’ll ask for your ideas, give you space to lead, and always welcome feedback.
 - I’m a morning person and usually do my best critical thinking before noon ☕ 
 - I love actionable content and hate fluff. Make it clear, sharp, and skimmable ✏️
 - I thrive on momentum. Shipping small things fast and experimenting gives us data and energy ✨
+
+## 📝 Feedback is Always Welcome
+
+I always welcome feedback. Whether it's about how I show up or how we work together, you can drop it in our 1:1 doc, DM me, or say it in the moment. Your input helps me grow, and I genuinely appreciate it.
 
 ## 🎯 Final Thought
 
