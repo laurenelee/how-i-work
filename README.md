@@ -17,8 +17,8 @@ These guides are living documents. I update them as I evolve in my role, working
 
 ## 📬 Contact
 
-If you have questions, thoughts, or feedback about anything here, feel free to reach out on Telegram or open an issue/discussion in this repo.
+If you have questions, thoughts, or feedback about anything here, feel free to reach out on [Telegram](https://t.me/lolocoding) or open an issue/discussion in this repo.
 
 ---
 
-<sub>✍️ Made with ☕ and 🌊 just outside Porto, Portugal.</sub>
+<sub>✍️ Made with ☕ and 🌊 Guimarães, Portugal.</sub>
