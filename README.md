@@ -14,6 +14,10 @@ These guides are living documents. I update them as I evolve in my role, working
 - ["How to Work With Me" Template](./how-to-work-with-me-template.md)
 
 ---
+### 📖 More information on Personal User Manuals:
+- [Communicating to yourself and others — Your Personal User Manual and other great tools](https://medium.com/10x-curiosity/communicating-to-yourself-and-others-your-personal-user-manual-and-other-great-tools-cb015400ee02)
+- [Fostering psychological safety with a personal user manual](https://nesslabs.com/personal-user-manual)
+---
 
 ## 📬 Contact
 
