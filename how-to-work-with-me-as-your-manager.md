@@ -38,6 +38,12 @@ I’ll ask for your ideas, give you space to lead, and always welcome feedback.
 - I love written context. A Confluence doc or brief in Slack goes a long way.
 - I value clarity and directness. You never need to read between the lines with me.
 
+## 💥 Conflict + Disagreement
+- I believe respectful debate leads to better ideas, stronger outcomes, and more trust over time.
+- Healthy disagreement is part of how great teams operate.
+- You’ll never get in trouble for pushing back, asking questions, or offering a different perspective. In fact, I appreciate it.
+- You can always disagree with me (or each other!) as long as we do it with kindness, clarity, and shared intent. I’ll do the same.
+
 ## 🧑‍🤝‍🧑 1:1s
 
 - We’ll meet weekly for 30 minutes.
