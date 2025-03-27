@@ -1,4 +1,6 @@
 # How to Work With Me (As Your Colleague)
+**Pronouns**: she/her  
+**Timezone**: GMT+0
 
 Hi, I’m Lauren 👋  
 I’m thrilled we get to work together. I believe the best teams are built on mutual respect, clarity, and trust. This guide is here to help us skip the awkward calibration phase and get to the good part: collaborating well.  
