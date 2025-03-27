@@ -1,4 +1,6 @@
 # How to Work With Me (As Your Manager)
+**Pronouns**: she/her   
+**Timezone**: GMT+0  
 
 Hi, I’m Lauren 👋  
 I’m so excited you’re here and part of this team. DevRel is one of the most exciting (and challenging!) disciplines to work in, and my goal is to make sure you feel supported, empowered, and clear on how we work together.
